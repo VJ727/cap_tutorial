@@ -29,7 +29,7 @@
 
                                     </content>
                                     <dependents>
-                                        <Dialog id="OpenDialog" title="Create Sales Order">
+                                        <Dialog id="OpenDialog1" title="Create Sales Order">
                                             <buttons>
                                                 <Button id="confirmCreate" text="Create" press=".onCreate" type="Emphasized" />
                                                 <Button id="cancelCreate" text="Cancel" press="onCancelDialog" type="Transparent" />
